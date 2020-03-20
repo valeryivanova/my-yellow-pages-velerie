@@ -643,7 +643,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif
     border-radius: 1px;
     transition: 0.2s;
   } 
-  a.button8:hover { background: rgba(24, 255, 3, 0.404); }
+  a.button8:hover { background: rgba(24, 255, 3, 0.418); }
   a.button8:active { background: white; }
 
   
